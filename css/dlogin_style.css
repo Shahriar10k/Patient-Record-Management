@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.login_box{
+  width: 600px;
+  height: 670px;
+  position: absolute;
+  top: 15%;
+  left: 55%;
+  translate: (-50%,-50%);
+  background: #ECE3C9;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.3);
+  font-family: 'Jost', sans-serif;
+  color: black;
+  border-radius: 10px;
+}
+
+.login_form img{
+  height: 100px;
+  width: 370px;
+  display: block;
+  margin-left: 25%;
+  margin-top: 5%;
+
+}
+
+.login_form h2{
+  color: black;
+  text-align: center;
+  margin-top: 6%;
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+
+.login_error{
+  color: #D61A3C;
+  margin-bottom: 17px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.login_success{
+  color: #97DC21;
+  margin-bottom: 17px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.login_form input[type="text"], input[type="password"]{
+  text-align: left;
+  margin: auto;
+  border: 0;
+  display: block;
+  background: none;
+  text-align: center;
+  border: 2px solid black;
+  width: 50%;
+  padding: 14px 10px;
+  outline: none;
+  border-radius: 24px;
+  transition: 0.23s;
+  color: black;
+  font-size: 20px;
+}
+
+.login_form input[type="text"]:focus, input[type="password"]:focus{
+  width: 55%;
+  border-color: white;
+  background-color: black;
+  color: #ECE3C9;
+}
+
+.login_form input[type="text"]:focus{
+  font-size: 25px;
+}
+
+.login_form input::placeholder{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 10px;
+}
+
+.login_form label{
+  margin-left: 20%;
+  font-size: 20px;
+  margin-top: 5%;
+  padding:20px;
+}
+
+.login_form input[type="submit"]{
+  margin-top: 40px;
+  margin-left: 43%;
+  display: inline-block;;
+  background: #ECE3C9;
+  padding: 20px;
+  margin-left: 320;
+  margin-top: 40;
+  text-decoration: none;
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
+  color: black;
+  border: 2px solid black;
+  border-radius: 40px;
+  outline: none;
+}
+
+.login_form input[type="submit"]:hover{
+  background: black;
+  color: #ECE3C9;
+}
