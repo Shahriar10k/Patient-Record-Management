@@ -1,6 +1,6 @@
 # Patient Record Management
 
-Patient Record management is a web app created as a project for the CSE311(Database Systems) course. This web app stores patient's medical history. A registered doctor only can enter and retrieve a patient's information. The web app creates a flow of patient medical information among doctors from different hospitals. For more details, check out the proposal, use-case and, ERD
+Patient Record management is a web app created as a project for the CSE311(Database Systems) course. This web app stores patient's medical history. A registered doctor only can enter and retrieve a patient's information. The web app creates a flow of patient medical information among doctors from different hospitals. For more details, check out the [proposal, use-case and, ERD ](Report-UseCase-Erd)
 
 ## Installation
 
