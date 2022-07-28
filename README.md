@@ -15,3 +15,9 @@ There are no **direct access** to signup for the webapp. Since doctors, patients
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Screenshots
+![s1](https://user-images.githubusercontent.com/73390535/181583060-81f3358d-2a27-4388-afb1-8b2e82bd321b.png)
+![s2](https://user-images.githubusercontent.com/73390535/181583072-e83a50bf-4ea8-40ee-915f-1d503bc37fc0.png)
+![s3](https://user-images.githubusercontent.com/73390535/181583081-15935a9b-8525-4992-a77c-cf951930bd31.png)
+![s4](https://user-images.githubusercontent.com/73390535/181583099-165fdef1-2079-4c66-a0d2-da5a87a832a8.png)
